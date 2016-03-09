@@ -1,0 +1,13 @@
+Refactoring Type	Source Entity	Target Class	Entity Placement	Rate it!
+Move Method	edu.towson.cis.cosc603.project2.monopoly.GameMasterTestProduct::testButtonTradeClicked(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.93972224680575	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.GameMaster::btnDrawCardClicked():edu.towson.cis.cosc603.project2.monopoly.Card	edu.towson.cis.cosc603.project2.monopoly.GameBoard	0.9397793541214801	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.GameMasterTestProduct::testButtonPurchasePropertyClicked(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9398219945971062	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct::testRent(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.939861524413685	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct::testPurchaseRailroad(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9398668996886139	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct::testMonopoly(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9398854000678021	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct::testRent(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9398925052423732	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct::testPurchaseUtility(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9398975345916822	
+	current system		0.9400188674931074	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct::testPlayerAction(edu.towson.cis.cosc603.project2.monopoly.GameMaster):void	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9401773708498062	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct::cell(edu.towson.cis.cosc603.project2.monopoly.GameMaster):edu.towson.cis.cosc603.project2.monopoly.UtilityCell	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.940293031793517	
+Move Method	edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct::cell(edu.towson.cis.cosc603.project2.monopoly.GameMaster):edu.towson.cis.cosc603.project2.monopoly.RailRoadCell	edu.towson.cis.cosc603.project2.monopoly.GameMaster	0.9403938461794725	
