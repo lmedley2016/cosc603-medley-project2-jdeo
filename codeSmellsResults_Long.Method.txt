@@ -1,0 +1,43 @@
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void movePlayer(edu.towson.cis.cosc603.project2.monopoly.Player, int) 	gui	B1	0/8
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void movePlayer(edu.towson.cis.cosc603.project2.monopoly.Player, int) 	gui	B3	0/3
+edu.towson.cis.cosc603.project2.monopoly.GameMasterTest	protected void setUp() throws java.lang.Exception	gameMaster	B1	0/6
+edu.towson.cis.cosc603.project2.monopoly.TradeDealTest	public void testMakeMessage() 	deal	B1	0/6
+edu.towson.cis.cosc603.project2.monopoly.GameMasterTest	private edu.towson.cis.cosc603.project2.monopoly.MonopolyGUI gui() 	gameMaster	B1	0/5
+edu.towson.cis.cosc603.project2.monopoly.UtilityCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B2	0/5
+edu.towson.cis.cosc603.project2.monopoly.UtilityCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B3	0/3
+edu.towson.cis.cosc603.project2.monopoly.PropertyCellTest	private edu.towson.cis.cosc603.project2.monopoly.PropertyCell cell() 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.PropertyCellTest	protected void setUp() 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTest	protected void setUp() 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct	private edu.towson.cis.cosc603.project2.monopoly.RailRoadCell cell(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct	public void testRent(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.UtilityCellTest	protected void setUp() 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct	private edu.towson.cis.cosc603.project2.monopoly.UtilityCell cell(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct	public void testMonopoly(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct	public void testRent(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/4
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void btnRollDiceClicked() 	player	B2	0/4
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void completeTrade(edu.towson.cis.cosc603.project2.monopoly.TradeDeal) 	property	B1	0/3
+edu.towson.cis.cosc603.project2.monopoly.PropertyCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B2	0/3
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B2	0/3
+edu.towson.cis.cosc603.project2.monopoly.GainMoneyCardTest	public void testGainMoneyCardUI() 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public edu.towson.cis.cosc603.project2.monopoly.Card btnDrawCardClicked() 	gui	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void sendToJail(edu.towson.cis.cosc603.project2.monopoly.Player) 	player	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void startGame() 	gui	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GameMasterTestProduct	public void testButtonPurchasePropertyClicked(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GameboardTest	protected void setUp() throws java.lang.Exception	cell	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.GoToJailCardTest	public void testJailCardUI() 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.LoseMoneyCardTest	public void testLoseMoneyCardUI() 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.MovePlayerCardTest	public void testMovePlayerCardUI() 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCellTestProduct	public void testPurchaseRailroad(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.UtilityCellTestProduct	public void testPurchaseUtility(edu.towson.cis.cosc603.project2.monopoly.GameMaster) 	gameMaster	B1	0/2
+edu.towson.cis.cosc603.project2.monopoly.Player	public void exchangeProperty(edu.towson.cis.cosc603.project2.monopoly.Player) 	cell	B2	1/5
+edu.towson.cis.cosc603.project2.monopoly.CellInfoFormatterTest	public void testPropertyCellText() 	p	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void completeTrade(edu.towson.cis.cosc603.project2.monopoly.TradeDeal) 	seller	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.GameboardTest	public void testPropertyNumberForColor() 	cell1	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.GameboardTest	public void testPropertyNumberForColor() 	cell2	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.GameboardTest	public void testPropertyNumberForColor() 	cell3	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.Player	public void payRentTo(edu.towson.cis.cosc603.project2.monopoly.Player, int) 	owner	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.PropertyCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.RailRoadCell	public java.lang.Boolean playAction(java.lang.String) 	currentPlayer	B1	1/3
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void btnRollDiceClicked() 	gui	B1	3/6
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void btnRollDiceClicked() 	gui	B2	1/4
+edu.towson.cis.cosc603.project2.monopoly.GameMaster	public void playerMoved(edu.towson.cis.cosc603.project2.monopoly.Player) 	gui	B1	2/4
